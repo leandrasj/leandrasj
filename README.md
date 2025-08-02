@@ -69,7 +69,7 @@
 <a href="https://www.instagram.com/devbeatr1z/">
   <img src="https://img.shields.io/badge/-Instagram-e34234?style=for-the-badge&logo=instagram&logoColor=fff" />
 </a>
-<a href="www.linkedin.com/in/leandrabeatriz">
+<a href="https://www.linkedin.com/in/leandrabeatriz" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-e34234?style=for-the-badge&logo=linkedin&logoColor=fff" />
 </a>
 
@@ -88,7 +88,7 @@
   </div>
 </details>
 
-<br><br>
+<br>
 
 <!-- 🌹 Rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
