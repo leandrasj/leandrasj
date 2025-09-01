@@ -66,7 +66,7 @@
 <a href="mailto:leandrabeatriz.dev@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-e34234?style=for-the-badge&logo=gmail&logoColor=fff" />
 </a>
-<a href="https://www.instagram.com/devbeatr1z/">
+<a href="https://www.instagram.com/devleandra/">
   <img src="https://img.shields.io/badge/-Instagram-e34234?style=for-the-badge&logo=instagram&logoColor=fff" />
 </a>
 <a href="https://www.linkedin.com/in/leandrabeatriz" target="_blank">
